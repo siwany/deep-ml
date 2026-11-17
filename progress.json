@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:10:54.574Z",
+  "generated_at": "2026-11-17T18:33:10.916Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -435,6 +435,17 @@
       "path": "math/0017-covariance-and-correlation",
       "first_solved_at": "2026-11-17T14:10:53.614Z",
       "last_pushed_at": "2026-11-17T14:10:53.614Z"
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-11-17T18:33:10.277Z",
+      "last_pushed_at": "2026-11-17T18:33:10.277Z"
     }
   }
 }
