@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T18:55:39.324Z",
+  "generated_at": "2026-11-19T19:27:20.178Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -533,6 +533,19 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-11-19T18:55:38.656Z",
       "last_pushed_at": "2026-11-19T18:55:38.656Z"
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-11-19T19:27:19.463Z",
+      "last_pushed_at": "2026-11-19T19:27:19.463Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
