@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 32 problems · 0 labs · 13 math
+**46** solved · 33 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-10 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-11-09 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-11-10 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
+| [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-11-19 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-11-19 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-11-16 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-17 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
